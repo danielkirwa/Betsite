@@ -1,0 +1,92 @@
+#divcss{
+	width:500px;
+	margin: 0 auto;
+	background: #d0ffff;
+	padding: 5px;
+	border-radius: 5px;
+
+
+
+}
+.form{
+	width: 450px;
+	margin: 0 auto;
+
+.}
+.inputv{
+	width: 430px;
+	margin:0 auto;
+	padding: 5px;
+	border-radius: 8px;
+	background-color: seashell;
+	text-decoration-color: red;
+
+}
+#log_btn{ 
+background-color: blue;
+width: 100%;
+text-align: center;
+font-size: 18px;
+border-radius:5px;
+ }
+ #reg_btn{
+background-color: brown;
+width: 100%;
+text-align: center;
+font-size: 18px;
+border-radius:5px;
+ }
+ .logoff{
+ 	background-color: #b56c60;
+ 	width: 100%;
+ 	border-radius: 7px;
+ 	text-align: center;
+ 	font-size: 14px;
+ 	font-style: italic;
+ 	cursor: pointer;
+ 	margin: 0 auto;
+
+
+ }
+ #divhome{
+ 	width: 20%;
+ 	float: right;
+ 	background: #ffd0ff;
+ 	margin: 0 auto;
+
+ }
+ #details{
+ 	align-items: left;
+ 	float: left;
+ 	cursor: pointer;
+
+
+ }
+ #divaction{
+ 	background: #d0fff1;
+ 	margin: 0 auto;
+ 	width: 80%;
+ 	float: left;
+
+ }
+ .btnhome{
+ 	background-color: teal;
+ 	width: 15%;
+ 	height: 20px;
+ 	cursor: pointer;
+ 	text-align: center;
+ 	border-radius: 7px;
+
+
+
+
+ }
+ #btn_odds{
+ 	width: 100%;
+ 	height: 100%;
+ 	cursor: pointer;
+ 	height: 40px;
+ 	
+ 	
+
+ }
