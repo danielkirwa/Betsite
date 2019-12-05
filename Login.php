@@ -11,9 +11,9 @@
 <img src="IMG_20180923_183224_2.jpg" class="image" width="27%" height="30%"  style="border-radius: 900px"></center>
 <form method="post" action="" class=".form">
 	<label>user name</label><br>
-	<input type="text" name="user" placeholder="enter name" class="inputv"><br>
+	<input type="text" name="user" placeholder="enter name" class="inputv" required=""><br>
 		<label>passwod</label><br>
-	<input type="password" name="pass" placeholder="enter password" class="inputv"><br>
+	<input type="password" name="pass" placeholder="enter password" class="inputv" required=""><br>
 	<input type="submit" value="log in" id="log_btn" name="login" ><br>
 	<input type="submit" name="regester" value="REGESTER NOW" id="reg_btn" >
 
